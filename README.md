@@ -18,12 +18,15 @@ used for data cleaning, processing, analysis, and visualization.
 The main purpose of this project is to answer important business and
 analytical questions from the Uber ride dataset.
 
-# Dashbord Data Analysis
+------------------------------------------------------------------------
+
+# 📊 Dashbord Data Analysis
 
 <img width="1536" height="1024" alt="s3 image" src="https://github.com/user-attachments/assets/198e061d-f27e-4952-90ac-a211cf5b61e7" />
 <img width="1536" height="1024" alt="s1 image" src="https://github.com/user-attachments/assets/44802e26-aebf-4a36-a60a-54fe981a6897" />
 <img width="1536" height="1024" alt="s2 image" src="https://github.com/user-attachments/assets/6731f251-dc43-4ef4-86fe-936667590766" />
 
+-------------------------------------------------------------------------
 
 ### ❓ Questions answered in this project:
 
